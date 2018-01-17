@@ -15,12 +15,12 @@ public class HelloWorldClient {
 
 	public static void main(String[] args) {
 
-		obtainMessage(1L);
-		updateMessage(1L, "Wanna some update");
-		dirtyUpdateMessage(2L, "Wanna some dirty update");
-		for(long i = 3; i<=10;i++) {
-			deleteMessage(new Long(i));
-		}
+//		obtainMessage(1L);
+//		updateMessage(1L, "Wanna some update");
+//		dirtyUpdateMessage(2L, "Wanna some dirty update");
+//		for(long i = 3; i<=10;i++) {
+//			deleteMessage(new Long(i));
+//		}
 		
 		createPerson("Jozef Marcin", "Bardejov", "17", "Lesna");
 	}
