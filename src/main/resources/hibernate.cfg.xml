@@ -16,7 +16,15 @@
 
 		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Message" />
 		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Person" />
-
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Student" />
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Guide" />
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Passport" />
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Customer" />
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Actor" />
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Movie" />
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Employee" />
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Friend" />
+		<mapping class="com.homovulgaris.learn.jpahibernate.entity.Parent" />
 
 	</session-factory>
 
